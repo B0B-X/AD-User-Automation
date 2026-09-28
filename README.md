@@ -48,7 +48,7 @@ legt die Konten automatisiert an:
    ```powershell
    .\New-ADUsers.ps1 -CsvPath .\users.csv
    ```
-   <!-- anpassen: echter Skriptname + echte Parameter -->
+   <!-- noc h zu anpassen: echter Skriptname + echte Parameter -->
 
 3. Das Skript legt die Konten an und gibt eine Zusammenfassung aus
    (angelegt / übersprungen / Fehler).
